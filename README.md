@@ -25,9 +25,7 @@ Deixarei os links dos protótipos em Desktop e Mobile a seguir:
 <br>
 <br>
 
-Figma: 
-
-https://www.figma.com/design/uEcbDukG6v6BunCKRX17cC/Guia-de-estilos-%2F-Ag%C3%AAncia-de-viagens-(Copy)?node-id=2002-10&t=zFTNx3sCofSd8CKy-0
+Figma: https://www.figma.com/design/uEcbDukG6v6BunCKRX17cC/Guia-de-estilos-%2F-Ag%C3%AAncia-de-viagens-(Copy)?node-id=2002-10&t=zFTNx3sCofSd8CKy-0
 
 Desktop: https://www.figma.com/proto/uEcbDukG6v6BunCKRX17cC/Guia-de-estilos-%2F-Ag%C3%AAncia-de-viagens-(Copy)?node-id=2002-102&p=f&t=zFTNx3sCofSd8CKy-0&scaling=scale-down&content-scaling=fixed&page-id=1%3A3&starting-point-node-id=2002%3A102
 
@@ -44,5 +42,13 @@ Psicologoia das cores: Por que amarelo e azul claro?
 O site ficou assim:
 
 
+
+
+
+https://github.com/user-attachments/assets/db5d4c64-17c5-4c16-844d-f2694a567e69
+
+
+
+https://github.com/user-attachments/assets/507cf327-2bd9-4dae-8b4b-85348dbaad8a
 
 
